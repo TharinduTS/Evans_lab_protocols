@@ -3,9 +3,11 @@
 To clean the PRC product that have been went through the Big-dye sequencing reaction. 
 
 ### Slurry mix
-For one plate
-- sephadex G50 Fine: 1.25g
-- ddH2O: 20ul
+For one plate (96 samples)
+- sephadex G50 Fine: 2.5g
+- ddH2O: 40ml
+
+- Wait 3 hours before using in the next step
 
 ### Protocol
 
